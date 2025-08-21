@@ -1,0 +1,9 @@
+{
+  "name": "@johntalton/i2c-service-workspace",
+  "workspaces":[
+    "./client",
+    "./service",
+    "./library"
+  ],
+  "private": true
+}

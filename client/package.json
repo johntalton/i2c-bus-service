@@ -1,0 +1,7 @@
+{
+	"name": "@johntalton/i2c-service-library",
+	"type": "module",
+	"exports": {
+		".": "./src/index.js"
+	}
+}
