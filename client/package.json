@@ -1,5 +1,6 @@
 {
-	"name": "@johntalton/i2c-service-library",
+	"name": "@johntalton/i2c-bus-service-client",
+	"version": "1.0.0",
 	"type": "module",
 	"exports": {
 		".": "./src/index.js"
